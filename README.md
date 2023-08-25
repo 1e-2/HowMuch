@@ -1,9 +1,7 @@
-﻿
+
 # HowMuch
 ![60% Works](https://img.shields.io/badge/60%25%20of%20the%20Time-It%20Works%20Every%20Time-green)
 
-
-![License](https://img.shields.io/github/license/1e-2/HowMuch)
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/1e-2/HowMuch)
 ![Last Commit](https://img.shields.io/github/last-commit/1e-2/HowMuch)
@@ -11,11 +9,13 @@
 ![Closed Issues](https://img.shields.io/github/issues-closed-raw/1e-2/HowMuch)
 ![Pull Requests](https://img.shields.io/github/issues-pr/1e-2/HowMuch)
 ![Stars](https://img.shields.io/github/stars/1e-2/HowMuch)
+![Coffee Level](https://img.shields.io/badge/Coffee%20Level-110%25-brown)
+![Stress Level](https://img.shields.io/badge/Stress%20Level-Endurable-green)
 
-
-**Have you ever asked yourself, "How much space have I wasted on *.ckpt and *.safetensors checkpoints?"** 🤔
+**Have you ever asked yourself, "How much space have I wasted on `*.ckpt` and `*.safetensors` checkpoints?"** 🤔
 Say hello to HowMuch: Checking checkpoint wasted space since... well, now! 😄 Enjoy this somewhat unnecessary, yet "fun-for-the-whole-family" DiskSpaceAnalyzer tool. 😄
 ## Overview
+
 
 `HowMuch` is a Python tool designed to scan your drives (or a specified directory) and report on the total space used by files with specific extensions, mainly `.ckpt` and `.safetensors`. 
 

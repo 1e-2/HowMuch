@@ -1,4 +1,3 @@
-
 from setuptools import setup, find_packages
 
 with open("README.md", "r") as fh:
@@ -6,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="howmuch", 
-    version="0.1",
+    version="0.1.1",
     packages=find_packages(),
     install_requires=[
         'psutil',
@@ -24,4 +23,9 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    entry_points={
+        'console_scripts': [
+            'howmuch=howmuch.HowMuch:main',
+        ],
+    }
 )

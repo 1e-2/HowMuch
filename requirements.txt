@@ -1,0 +1,3 @@
+psutil
+tqdm
+matplotlib

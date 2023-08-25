@@ -80,4 +80,5 @@ This project is licensed under the MIT License. See [LICENSE](https://github.com
 - **idlebg** - [GitHub](https://github.com/idlebg)
 
 For any additional questions or comments, please [open an issue](https://github.com/1e-2/HowMuch/issues/new).
-aaaa
+![image](https://github.com/1e-2/HowMuch/assets/50985923/71446a10-6652-48f7-a19a-157e3465966a)
+![Screenshot_2083](https://github.com/1e-2/HowMuch/assets/50985923/d7e229e2-b45f-498b-bdf6-8a10ff7122bb)
